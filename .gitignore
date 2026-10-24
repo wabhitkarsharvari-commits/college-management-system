@@ -1,0 +1,8 @@
+
+node_modules/
+.env
+dist/
+
+# Local application data and backups
+backend/data/*.json
+backend/data/*.backup.txt
